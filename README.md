@@ -2,12 +2,12 @@
 
 Here is a list of the current projects and research assignments I am working on:
 
-April
+# April
 Projects
 - [ ] Staking of QTUM on Rasberry Pi
 - [ ] All CryptoZombies written + Tutorial content (Solidity)
 - [ ] Auto Clap on Medium Script (Python)
-- [ ] Simple voting app (Solidity)
+- [ ] ~~Simple voting app (Solidity)~~
 - [ ] Use of IPFS to have a decentralised P2P File Sharing system (JS / Solidity)
 - [ ] Freelancer API grab to get all the latest Blockchain related projects (Python)
 - [ ] Data mapping of the Australian Blockchain ecosystem (JS)
@@ -19,7 +19,8 @@ Research
 - [ ] Ethereum Plasma
 
 
+# Future
+Projects
+- [ ] FB Messenger Chatbot to send ETH transactions (Python)
 
-Projects for the future
-- [ ] FB Messenger Chatbot to send ETH transactions
-
+Research
