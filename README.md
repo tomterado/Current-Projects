@@ -2,6 +2,8 @@
 
 Here is a list of the current projects and research assignments I am working on:
 
+~~Strikethroughs~~ represent completion of the project.
+
 # April
 Projects
 - [ ] Staking of QTUM on Rasberry Pi
