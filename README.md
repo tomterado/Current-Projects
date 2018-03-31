@@ -6,13 +6,15 @@ Here is a list of the current projects and research assignments I am working on:
 
 # April
 Projects
+- [ ] ~~Simple voting app (Solidity)~~
 - [ ] Staking of QTUM on Rasberry Pi
+- [ ] Travel video edits for Vietnam trip(Premiere Pro)
 - [ ] All CryptoZombies written + Tutorial content (Solidity)
 - [ ] Auto Clap on Medium Script (Python)
-- [ ] ~~Simple voting app (Solidity)~~
 - [ ] Use of IPFS to have a decentralised P2P File Sharing system (JS)
 - [ ] Freelancer API grab to get all the latest Blockchain related projects (Python)
 - [ ] Data mapping of the Australian Blockchain ecosystem (JS)
+- [ ] Travel video edits for NZ trip(Premiere Pro)
 
 Research
 - [ ] Past Blockchain Founder experience mapping
