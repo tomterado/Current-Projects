@@ -1,4 +1,3 @@
-
 var click = {} 
 
 function simulateClick(node) {
